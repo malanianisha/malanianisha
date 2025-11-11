@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anisha 👋
 
-<!--
-**malanianisha/malanianisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Design & Engineering @ Santa Clara University (’26)**  
+Full-stack + UI/UX | React · Rails · Python | Ethical, user-centered software
 
-Here are some ideas to get you started:
+🔹 I build dashboards, APIs, and secure applications.  
+🔹 Experience with React, Node.js, Ruby on Rails, REST APIs, SQL.  
+🔹 Interested in Responsible AI & product-focused engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Featured Projects
+- **SchedulAI – Academic Planning Tool** (React + Python)
+- **Voice Security Dashboard** – Fraud + anomaly detection (Node.js + React)
+- **Rails E-Commerce Platform** – Auth, CRUD, shopping cart (Rails + SQLite)
+- **Networking Projects (C)** – UDP file transfer + Dijkstra routing
+
+📫 Connect: [LinkedIn](https://linkedin.com/in/anisha-malani)
