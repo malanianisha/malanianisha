@@ -14,4 +14,4 @@ Full-stack + UI/UX | React · Rails · Python | Ethical, user-centered software
 - **Networking Projects (C)** – UDP file transfer + Dijkstra routing
 
 📫 Connect: [LinkedIn](https://linkedin.com/in/anisha-malani)
-Figma portfolio: 
+
